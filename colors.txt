@@ -1,0 +1,17 @@
+*** MONOCROMATIC:
+background: #ABDFF2
+H1 E H2: #0F262E
+border: 265B7F
+coringa:#065573
+
+*** COMPLIMENTARY:
+background: #FFECDB
+H1 e H2: #0A91B2
+Hover: #94EAFF
+coringa:#FF9C41
+
+*** ANALOGO:
+background: #DBB2FF
+texto: #5A1EFF
+H1 e H2: #220CB0
+border: #803BE8
